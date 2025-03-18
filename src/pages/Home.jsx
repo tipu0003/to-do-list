@@ -14,7 +14,7 @@ const Home = () => {
           <div className="col-md-4 text-center">
             <motion.img
               src={profilePic}
-              alt="Rupesh Kumar Tipu"
+              alt="Dr. Rupesh Kumar Tipu"
               className="img-fluid rounded-circle"
               width={200}
               initial={{ scale: 0.8 }}
