@@ -28,6 +28,8 @@ const Home = () => {
             <p>With 11+ years of teaching experience and expertise in Structural Engineering, Machine Learning, Deep Learning, and Web Development.</p>
             <p>Email: <a href="mailto:tipu0003@gmail.com">tipu0003@gmail.com</a></p>
             <p>LinkedIn: <a href="https://www.linkedin.com/in/dr-rupesh-kumar-a60096270/" target="_blank" rel="noopener noreferrer">Profile</a></p>
+            <p>GoogleScholar: <a href="https://scholar.google.com/citations?user=uZzLU8IAAAAJ/" target="_blank" rel="noopener noreferrer">Profile</a></p>
+            <p>Website: <a href="https://tipu0003.github.io/rupesh-portfolio/" target="_blank" rel="noopener noreferrer">Profile</a></p>
           </div>
         </div>
       </div>
