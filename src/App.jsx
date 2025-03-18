@@ -7,12 +7,13 @@ import LongTermTasks from "./pages/LongTermTasks";
 
 const App = () => {
   return (
-    <Router>
+    <Router basename="/to-do-list">
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/daily-tasks" element={<DailyTasks />} />
         <Route path="/long-term-tasks" element={<LongTermTasks />} />
+        <Route path="*" element={<Navigate to="/" />} />
       </Routes>
     </Router>
   );
